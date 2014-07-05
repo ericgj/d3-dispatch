@@ -1,0 +1,16 @@
+{
+  "name": "d3-dispatch",
+  "repo": "ericgj/d3-dispatch",
+  "description": "d3.dispatch",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "dispatch.js",
+    "map.js"
+  ]
+}

@@ -1,1 +1,1 @@
-module.exports = (d3 ? d3.dispatch : require('./dispatch'));
+module.exports = (typeof d3 !== 'undefined' ? d3.dispatch : require('./dispatch'));

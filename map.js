@@ -1,6 +1,8 @@
 'use strict';
 
-module.exports = function d3_Map() {}
+module.exports = d3_Map;
+
+function d3_Map() {}
 
 d3_class(d3_Map, {
   has: d3_map_has,
